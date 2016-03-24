@@ -6,13 +6,15 @@ render: (output) ->
   "#{output}"
 
 style: """
+  color: #C5C8C6
+
   -webkit-font-smoothing: antialiased
-  color: #D6E7EE
-  font: 11px Osaka-Mono
-  height: 16px
-  left: 10px
+  font: 13px Fira Code Retina
+  right: 10px
   overflow: hidden
+  top: 3px
+
+  left: 10px
   text-overflow: ellipsis
-  top: 6px
-  width: 500px
+  width: 1200px
 """

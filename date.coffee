@@ -7,8 +7,8 @@ render: (output) ->
 
 style: """
   -webkit-font-smoothing: antialiased
-  color: #B16286
-  font: 11px Osaka-Mono
-  right: 60px
-  top: 6px
+  color: #84688E
+  font: 13px Fira Code Retina
+  right: 65px
+  top: 3px
 """
